@@ -122,7 +122,7 @@ function App() {
             </div>
         </div>
         <div className="app--key">
-            
+            <img src="/public/IMG_0608.png"></img>
         </div>
     </div>
   );
